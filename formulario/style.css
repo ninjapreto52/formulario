@@ -1,0 +1,18 @@
+.BT1:hover:hover{
+    background-color: green;
+}
+.comentarios
+{
+    width: 90%;
+    height: 200px;
+    resize: none;
+    
+}
+.BT1
+{
+    width: 100px;
+    height: 70px;
+    background-color:blue;
+    font-size: 16px;
+    cursor: url(),auto;
+}
